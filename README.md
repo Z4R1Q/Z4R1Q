@@ -8,7 +8,7 @@ Interests: Web Development, AI, Cybersecurity, Calisthenics, Chess
 
 ## About Me
 
-I’m a aspiring student for Computer Science engineering.  
+I’m a aspiring student.  
 I enjoy solving logical problems, building small projects, and learning new technical skills.
 
 I like planning and designing systems more than just coding randomly, and I’m interested in:
