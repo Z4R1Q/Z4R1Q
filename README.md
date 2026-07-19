@@ -22,7 +22,7 @@ Outside of tech, I’m into calisthenics, chess, and gaming.
 
 ## Skills & Interests
 
-- **Languages:** HTML, CSS, JavaScript(basic), Python, SQL (learning)
+- **Languages:** HTML, CSS, JavaScript (basic), Python, SQL (learning)
 - **Tools:** VS Code, GitHub, Git (basic)
 - **Interests:** Web Dev, AI, Cybersecurity, Problem Solving, Calisthenics, Chess
 
