@@ -30,10 +30,7 @@ Outside of tech, I’m into calisthenics, chess, and gaming.
 
 ## Projects
 
-- **Calculator (HTML/CSS/JS)** – Basic working calculator with buttons and operations.  
-- **Python Calculator** – CLI calculator for basic arithmetic.  
-- **Number Guessing Game (Python)** – Random number game with hints and attempt count.  
-- **To‑Do List UI (HTML/CSS)** – Simple front-end design for a task list.
+- tic tac toe: A simple Tic Tac Toe game built with HTML, CSS, and JavaScript
 
 More projects coming soon...
 
