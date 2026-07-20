@@ -30,7 +30,7 @@ Outside of tech, I’m into calisthenics, chess, and gaming.
 
 ## Projects
 
-- tic tac toe: A simple Tic Tac Toe game built with HTML, CSS, and JavaScript
+- **tic tac toe:** A simple Tic Tac Toe game built with HTML, CSS, and JavaScript
 
 More projects coming soon...
 
