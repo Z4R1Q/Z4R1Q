@@ -16,7 +16,7 @@ I like planning and designing systems more than just coding randomly, and I’m 
 - Freelancing in tech while in college
 - Deepening my skills in Python, problem-solving, and eventually AI/cybersecurity
 
-Outside of tech, I’m into calisthenics, chess, and gaming.
+Outside of tech, I’m into calisthenics and chess.
 
 ---
 
