@@ -15,8 +15,7 @@ I’m a student and self-taught programmer from Mumbai, India, learning differen
 
 ## Projects
 
-- 🔹 **Tic Tac Toe** — A fun game project made to practice logic and coding.  
-  [View Project](https://github.com/Z4R1Q/tic-tac-toe)
+- 🔹 **[tic-tac-toe-html-css-javascripts](https://github.com/Z4R1Q/tic-tac-toe-html-css-javascripts)** — A fun game project made to practice logic and coding.  
 
 ## Future Plans
 
@@ -26,4 +25,4 @@ I’m a student and self-taught programmer from Mumbai, India, learning differen
 
 ## Connect With Me
 
-- GitHub: [github.com/Z4R1Q](https://github.com/Z4R1Q) 
+- GitHub: [Z4R1Q](https://github.com/Z4R1Q) 
