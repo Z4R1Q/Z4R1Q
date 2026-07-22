@@ -1,49 +1,29 @@
-# Hi, I'm ZARIQ KHAN
+# Hi, I'm Zariq Khan 👋
 
-18 | Mumbai | Aspiring CSE Student  
-Learning: HTML, CSS, JavaScript, Python, MySQL  
-Interests: Web Development, AI, Cybersecurity, Calisthenics, Chess
-
----
+I’m a student and self-taught programmer from Mumbai, India, learning different skills step by step while building a strong foundation in coding and technology. I enjoy exploring web development, Python, databases, and data structures, and I keep improving by making small projects and practicing regularly.
 
 ## About Me
 
-I’m a aspiring student.  
-I enjoy solving logical problems, building small projects, and learning new technical skills.
+- 🎓 Student passionate about computer science and technology.
+- 🧠 Focused on improving problem-solving and DSA skills.
+- 🛠️ Building projects to grow my GitHub portfolio.
 
-I like planning and designing systems more than just coding randomly, and I’m interested in:
-- Building my own products/startup ideas
-- Freelancing in tech while in college
-- Deepening my skills in Python, problem-solving, and eventually AI/cybersecurity
+## Skills
 
-Outside of tech, I’m into calisthenics and chess.
-
----
-
-## Skills & Interests
-
-- **Languages:** HTML, CSS, JavaScript (basic), Python, SQL (learning)
-- **Tools:** VS Code, GitHub, Git (basic)
-- **Interests:** Web Dev, AI, Cybersecurity, Problem Solving, Calisthenics, Chess
-
----
+- **Programming Languages:** Python, JavaScript, HTML, CSS, SQL
+- **Tools:** Git, GitHub, VS Code, Windows 11, MySQL
 
 ## Projects
 
-- **tic tac toe:** A simple Tic Tac Toe game built with HTML, CSS, and JavaScript
+- 🔹 **Tic Tac Toe** — A fun game project made to practice logic and coding.  
+  [View Project](https://github.com/Z4R1Q/tic-tac-toe)
 
-More projects coming soon...
+## Future Plans
 
----
+- Build more real-world web development projects.
+- Improve my DSA and competitive programming skills.
+- Create a stronger GitHub portfolio for internships and freelancing.
 
-## What I’m Working On
+## Connect With Me
 
-- Pushing my beginner projects to GitHub in a clean, documented way.  
-- Strengthening Python and problem-solving skills.  
-- Planning my next project that combines Python + MySQL.
-
----
-
-## Connect
-
-- GitHub:Z4R1Q(https://github.com/Z4R1Q)  
+- GitHub: [github.com/Z4R1Q](https://github.com/Z4R1Q) 
