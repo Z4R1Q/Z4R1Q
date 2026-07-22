@@ -1,4 +1,4 @@
-# Hi, I'm Zariq Khan 👋
+# Hi, I'm Z4R1Q 👋
 
 I’m a student and self-taught programmer from Mumbai, India, learning different skills step by step while building a strong foundation in coding and technology. I enjoy exploring web development, Python, databases, and data structures, and I keep improving by making small projects and practicing regularly.
 
