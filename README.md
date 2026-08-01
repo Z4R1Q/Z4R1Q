@@ -10,8 +10,8 @@ I’m a student and self-taught programmer from Mumbai, India, learning differen
 
 ## Skills
 
-- **Programming Languages:** Python, JavaScript, HTML, CSS, SQL
-- **Tools:** Git, GitHub, VS Code, Windows 11, MySQL
+- **Programming Languages:** Python, JavaScript (basic) , HTML, CSS, MYSQL
+- **Tools:** Git, GitHub, VS Code, Windows 11.
 
 ## Projects
 
