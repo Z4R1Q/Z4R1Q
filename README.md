@@ -14,9 +14,9 @@ I’m a student and self-taught programmer from Mumbai, India, learning differen
 - **Tools:** Git, GitHub, VS Code, Windows 11.
 
 ## Projects
-- **[python-calculator](https://github.com/Z4R1Q/python-projects/tree/main/python-calculator)** 
-- 🔹 **[python-weather-app](https://github.com/Z4R1Q/python-projects/tree/main/python-weather-app)** — A simple, beginner-friendly Python application that fetches and displays current weather information for any city using a public weather API. 
-- 🔹 **[tic-tac-toe-html-css-javascripts](https://github.com/Z4R1Q/tic-tac-toe-html-css-javascripts)** — A fun game project made to practice logic and coding.
+-  **[python-calculator](https://github.com/Z4R1Q/python-projects/tree/main/python-calculator)** 
+-  **[python-weather-app](https://github.com/Z4R1Q/python-projects/tree/main/python-weather-app)** 
+-  **[tic-tac-toe-html-css-javascripts](https://github.com/Z4R1Q/tic-tac-toe-html-css-javascripts)** 
 
 ## Future Plans
 
